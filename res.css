@@ -1,0 +1,741 @@
+@media screen and (max-width: 1860px){
+    .card {
+        padding: 10px 12px;
+      }
+
+      .cards-containers {
+        width: 80%;
+      }
+      .big-container {
+        width: 79vw;
+      }
+      .navbar {
+        font-size: 0.6vw;
+      }
+      .input {
+        width: 62vw;
+      }
+      .sign-in h3 {
+        font-size: 0.6vw;
+      }
+
+}
+@media screen and (max-width: 1830px){
+    .card img {
+        width: 100%;
+      }
+      .section-class {
+        transform: translateX(9%);
+        position: relative;
+        width: 86%;
+        z-index: -1;
+      }
+      .footer-section {
+        height: 700px;
+      }
+
+}
+
+@media screen and (max-width: 1800px){
+    .cards-containers {
+        width: 83vw;
+      }
+      .row-container {
+        padding: 13px 40px;
+        height: 260px;
+        width: 74vw;
+      }
+
+
+}
+
+@media screen and (max-width: 1680px){
+
+    .card1 {
+        height: 350px;
+        width: 18vw;
+      }
+      .cards-containers {
+        margin-top: 90px;
+      }
+      .row-container {
+        margin: -50px auto;
+      }
+
+}
+@media screen and (max-width: 1620px){
+    .card1 img {
+        width: 270px;
+        height: 270px;
+      }
+      .card h3 {
+        font-size: 1vw;
+      }
+      .card1 h3 {
+        font-size: 1vw;
+      }
+      .card {
+        height: 340px;
+      }
+      .card img {
+        width: 95%;
+        height: 260px;
+      }
+      .long-para {
+        width: 62vw;
+      }
+      .long-para p{
+       font-size: 0.8vw;
+      }
+      .sign-in h3 {
+        width: 74px;
+      }
+      .re-order h3{
+        width: 50px;
+      }
+}
+@media screen and (max-width: 1480px){
+    .navbar {
+        gap: 1vw;
+      }
+      
+.books img {
+  width: 110px;
+}
+.backward {
+    font-size: 40px;
+  }
+.forward {
+    font-size: 40px;
+  }
+  .row-container h2 {
+    font-size: 1.5vw;
+  }
+}
+@media screen and (max-width: 1400px){
+  .input {
+    width: 58vw;
+  }
+  .black-search {
+    height: 12px;
+  }
+  .input button {
+    height: 40px;
+  }
+  .input {
+    height: 40px;
+  }
+  .img img {
+    width: 70px;
+    height: 30px;
+  }
+  .card {
+    height: 300px;
+    padding: 5px 12px;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  .card {
+    height: 300px;
+    padding: 5px 12px;
+    gap: 7px;
+  }
+  .card h3 {
+    font-size: 0.9vw;
+  }
+  .row-container {
+    padding: 13px 23px;
+    height: 230px;
+  }
+  .card1 {
+    padding: 12px 10px;
+    width: 271px;
+    height: 340px;
+  }
+  .cards-containers {
+    width: 88vw;
+  }
+}
+@media screen and (max-width: 1360px){
+  .card1 img {
+    width: 100%;
+  }
+  .col h2 {
+    font-size: 13px;
+  }
+  .col h4 {
+    font-size: 12px;
+  }
+  .footer-info {
+    grid-template-columns: repeat(4,260px);
+  }
+  .todo {
+    gap: 180px;
+  }
+
+}
+@media screen and (max-width: 1150px){
+  .navbar {
+    gap: 8px;
+  }
+  .card img {
+    height: 225px;
+  }
+  .card {
+    height: 275px;
+  }
+  .short-text button {
+    font-size: 12px;
+  }
+  .short-section span {
+    font-size: 11px;
+  }
+
+  .short-section h5 {
+    font-size: 10px;
+  }  
+  .side-menu {
+    width: 25%;
+  }
+  .row1 h1 {
+    padding: 0px 20px;
+  }
+  .intro span {
+    margin-top: 10px;
+  }
+.intro i{
+  margin-top: 8px;
+}
+.close {
+  left: 320px;
+  font-size: 2vw;
+}
+
+.todo i{
+  font-size: 14px;
+}
+}
+
+@media screen and (max-width: 1100px){
+.section-class{
+  transform: translateX(-0%);
+}
+.big-container {
+  width: 100vw;
+}
+.img-icons {
+  font-size: 3vw;
+}
+.row-container {
+  margin: -160px;
+  width: 90.2vw;
+  transform: translateX(194px);
+}
+.cards-containers {
+  margin-top: 190px;
+  width: 94vw;
+}
+.img {
+  height: 35%;
+}
+.navbar {
+  gap: 2px;
+}
+.re-order {
+  width: 38px;
+}
+.navbar {
+  font-size: 1vw;
+}
+.sign-in h3 {
+  font-size: 0.8vw;
+}
+}
+
+@media screen and (max-width: 980px){
+  .books img {
+    width: 100px;
+  }
+  .row-container {
+    width: 89vw;
+  }
+  .cards-containers {
+    width: 94vw;
+    transform: translateX(33px);
+    margin:190px 0px ;
+  }
+  .col h4 {
+    font-size: 10px;
+  }
+  .col h2 {
+    font-size: 11px;
+  }
+  .footer-info {
+    grid-template-columns: repeat(4,215px);
+  }
+
+}
+@media screen and (max-width: 930px){
+  .input {
+    width: 54vw;
+  }
+  .row-container {
+    width: 88.8vw;
+    transform: translateX(190px);
+  }
+  .cards-containers {
+    transform: translateX(30px);
+  }
+  .re-order {
+    font-size: 8px;
+  }
+
+}
+@media screen and (max-width: 910px){
+  img img {
+    width: 60px;
+    height: 30px;
+  }
+  .delivery span {
+    font-size: 8px;
+  }
+  .list span {
+    font-size: 10px;
+  }
+  .todo {
+    gap: 110px;
+  }
+  .todo span {
+    font-size: 10px;
+  }
+  .row1 h1 {
+    font-size: 12px;
+  }
+  .close {
+    font-size: 2.5vw;
+    transform: translateX(-80px);
+  }
+  .intro span {
+    font-size: 12px;
+  }
+  .intro i {
+    margin-top: 12px;
+  }
+  .sign-in h3 {
+    width: 55px;
+  }
+  .long-para {
+    width: 70vw;
+  }
+  .long-para p {
+    font-size: 12px;
+  }
+  .card h3 {
+    font-size: 12px;
+  }
+  .card span {
+    font-size: 12px;
+  }
+  .card1 h3 {
+    font-size: 12px;
+  }
+  .card1 span {
+    font-size: 12px;
+  }
+  .card1 img {
+    height: 225px;
+  }
+  .card1 {
+    height: 295px;
+  }
+  .card img {
+    object-fit: cover;
+  }
+  .card1 img {
+    object-fit: cover;
+  }
+}
+@media screen and (max-width: 850px){
+  .input {
+    width: 50vw;
+  }
+.none{
+  display: none;
+}
+.card {
+  height: 290px;
+  padding: 10px 12px;
+  gap: 12px;
+}
+.card h3 {
+  font-size: 14px;
+}
+.row-container {
+    width: 87.5vw;
+    margin-top: -125px;
+}
+.card1 h3 {
+  font-size: 14px;
+}
+.cards-containers {
+  width: 93vw;
+  gap: 20px;
+}
+.footer-info {
+  grid-template-columns: repeat(4,180px);
+}
+}
+@media screen and (max-width: 760px){
+  .pic h1 {
+    font-size: 4vw;
+  }
+  .row-container {
+    padding: 13px 15px;
+    height: 195px;
+    width: 88vw;
+  }
+  .row-container h2 {
+    font-size: 18px;
+  }
+  .side-menu {
+    width: 30%;
+  }
+  .close {
+    font-size: 3vw;
+    transform: translateX(-70px);
+  }
+  .backward {
+    font-size: 25px;
+  }
+  .forward {
+    font-size: 25px;
+  }
+  .deli-flex{
+      width: 50px;
+  }
+  .delivery span {
+    font-size: 9px;
+  }
+  .delivery h5 {
+    font-size: 9px
+  }
+  .input input {
+    font-size: 10px;
+  }
+  .input button {
+    font-size: 10px;
+  }
+  .search-icon {
+    padding: 14px;
+    font-size: 10px;
+  }
+  .input {
+    width: 46vw;
+  }
+  .sign-in{
+    font-size: 10px;
+  }
+  .sign-in h3 {
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 700px){
+  .input {
+    width: 40vw;
+  }
+  .sign-in h3 {
+    width: 72px;
+    font-size: 9px;
+  }
+  .flag h4 {
+    font-size: 9px;
+  }
+}
+@media screen and (max-width: 680px){
+  .input {
+    width: 35vw;
+  }
+  .card h4{
+    font-size: 10px;
+  }
+  .img img {
+    width: 60px;
+    height: 25px;
+  }
+  .navbar {
+   gap: 5px;
+    padding: 0px 3vw;
+  }
+  .img {
+    height: 25%;
+  }
+  .footer-info {
+    grid-template-columns: repeat(3,180px);
+  }
+}
+@media screen and (max-width: 650px){
+  .input button {
+    display: none;
+  }
+  .input {
+    width: 30vw;
+  }
+  .input input {
+    border-radius: 20px;
+  }
+  .delivery span {
+    font-size: 8px;
+  }
+  .delivery h5 {
+    font-size: 8px;
+  }
+  .padding {
+    padding: 2px;
+  }
+  .navbar {
+    gap: 10px;
+  }
+  .cart i {
+    font-size: 3vw;
+  }
+.cart h4{
+  font-size: 1.5vw;
+}
+.padding{
+  border: 0px;
+}
+}
+@media screen and (max-width: 600px){
+  .card img {
+    height: 180px;
+  }
+  .cards-container {
+    gap: 12px;
+  }
+  .card {
+    height: 242px;
+  }
+  .row-container {
+    width: 85.5vw;
+  }
+  .row-container h2 {
+    font-size: 16px;
+  }
+  .cards-containers {
+    width: 90.6vw;
+  }
+  .navbar {
+    gap: 5px;
+  }
+
+}
+@media screen and (max-width: 570px){
+  .navbar {
+    padding: 0px 1vw;
+  }
+  .sign-in h3 {
+    font-size: 8px;
+    width: 60px;
+  }
+  .list {
+    padding: 0px 30px;
+  }
+  .below-nav {
+    height: 50px;
+  }
+  .side-menu {
+    width: 40%;
+  }
+  .close {
+    font-size: 4vw;
+    transform: translateX(-60px);
+  }
+}
+@media screen and (max-width: 550px){
+  .list span {
+    padding: 5px;
+  }
+  .img img {
+    width: 40px;
+    height: 28px;
+  }
+  .input {
+    width: 40vw;
+    height: 30px;
+  }
+  .search-icon {
+    padding: 9px;
+  }
+  .flag img {
+    width: 18px;
+    height: 14px;
+  }
+  .border:hover {
+border: 0px;
+  }
+  .padding{
+    padding: 0px 0px;
+  }
+  .re-order h3 {
+    width: 40px;
+  }
+  .re-order {
+    font-size: 7px;
+  }
+  .navbar {
+    gap: 2px;
+  }
+  .books img {
+    width: 80px;
+  }
+  .backward {
+    font-size: 18px;
+  }
+  .forward {
+    font-size: 18px;
+  }
+  .row-container {
+    height: 160px;
+    padding: 13px 10px;
+  }
+  .row {
+    top: 22%;
+  }
+  .card1 img {
+    height: 168px;
+  }
+  .card1 {
+    height: 250px;
+  }
+  .cards-containers {
+    width: 89vw;
+  }
+
+
+
+
+}
+@media screen and (max-width: 520px){
+  .list span {
+    padding: 0px;
+    border: 0px;
+  }
+  .list span:hover {
+    border: 0px;
+  }
+  .footer-info {
+    grid-template-columns: repeat(3,150px);
+  }
+  .side-menu {
+    width: 240px;
+  }
+  .flag h4 {
+    font-size: 8px;
+  }
+  .flag img {
+    width: 14px;
+    height: 12px;
+  }
+  .sign-in {
+    font-size: 9px;
+  }
+  .sign-in h3 {
+    font-size: 7px;
+    width: 52px;
+  }
+  .re-order {
+    width: 30px;
+  }
+}
+
+@media screen and (max-width: 470px){
+  .navbar {
+    height: 50px;
+    gap: 5px;
+}
+.deli-flex {
+  width: 39px;
+}
+.flag h4 {
+  font-size: 7px;
+}
+.flag img {
+  width: 10px;
+  height: 10px;
+}
+.card h3 {
+  font-size: 12px;
+}
+.row-container {
+  width: 84vw;
+}
+.card1 h3 {
+  font-size: 12px;
+  font-weight: 700;
+}
+.col h4 {
+  font-size: 8px;
+  margin-top: 5px;
+}
+.col h2 {
+  font-size: 9px;
+}
+.footer-info {
+  grid-template-columns: repeat(3,130px);
+}
+
+
+
+
+}
+@media screen and (max-width: 450px){
+  .img img {
+    width: 30px;
+    height: 22px;
+  }
+  .delivery span {
+    font-size: 7px;
+  }
+  .delivery h5 {
+    font-size: 7px;
+  }
+  .flag h4 {
+    font-size: 6px;
+  }
+  .flag {
+    gap: 2px;
+  }
+  .re-order {
+    font-size: 6px;
+  }
+  .row-container {
+    width: 82vw;
+  }
+  .cards-containers {
+    width: 87vw;
+  }
+}
+@media screen and (max-width: 435px){
+  .list span {
+    font-size: 8px;
+  }
+  .long-para p {
+    font-size: 9px;
+  }
+  .card h3 {
+    font-size: 10px;
+  }
+  .card span {
+    font-size: 10px;
+  }
+  .card1 h3 {
+    font-size: 10px;
+  }
+  .card1 span {
+    font-size: 10px;
+  }
+
+
+
+}
